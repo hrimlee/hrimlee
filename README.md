@@ -20,8 +20,8 @@ I want to be a great AI Reseacher. :smile:
 
 <p>
   <a href="https://github.com/hrimlee/" target="_blank"><img src="https://img.shields.io/badge/hrimlee-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="mailto:darkduke882@gmail.com" target="_blank"><img src="https://img.shields.io/badge/darkduke882@gmail.com-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="mailto:hrimlee@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hrimlee@hanyang.ac.kr-brightgreen?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:darkduke882@gmail.com" target="_blank"><img src="https://img.shields.io/badge/darkduke882@gmail.com-blueviolet?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:hrimlee@hanyang.ac.kr" target="_blank"><img src="https://img.shields.io/badge/hrimlee@hanyang.ac.kr-blueviolet?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <!-- :love_letter: darkduke882@gmail.com or hrimlee@hanyang.ac.kr -->
 
