@@ -5,14 +5,23 @@
 
   :wave: Hi there
 ---------------------
-I'm Harim Lee, a growing Reseacher !
-I want to be a great AI Reseacher. :smile:
+I'm Harim Lee, a growing Reseacher ! :smile:
   
 :computer: Technology Stack :sunglasses:
 ---------------------
+used as main 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/pytorch-red?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-orange?style=flat-square&logo=tensorflow&logoColor=white">
+ 
 
-<img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+used at least once 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
+<!-- <img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+-->
 :hatched_chick: Me 
 ---------------------
 
