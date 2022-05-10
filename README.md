@@ -2,10 +2,12 @@
 <div align="center">
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nueob)](https://github.com/anuraghazra/github-readme-stats) -->
 
-:wave: Hi there
+ :wave: Hi there
 ---------------------
-I'm Harim Lee, a growing Reseacher ! :simple_smile:
-<br>
+I'm Harim Lee, a growing Reseacher !:smiley:
+
+ <br>
+ 
 :computer: Technology Stack
 ---------------------
 :bulb: used as main <br>
@@ -28,6 +30,7 @@ I'm Harim Lee, a growing Reseacher ! :simple_smile:
 <!-- <img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 -->
 <br>
+ 
 :hatched_chick: Contact info  
 ---------------------
 If you want to contact me, please leave me a message!
@@ -40,17 +43,3 @@ If you want to contact me, please leave me a message!
 
 </div>
 
-<!--
-**hrimlee/hrimlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
